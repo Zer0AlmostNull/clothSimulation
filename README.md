@@ -3,4 +3,4 @@ Simple cloth simulation using Verlet integration.
 
 ## Preview
 
-[![prewiev](https://i.ytimg.com/vi/oGPxKFNPtvg/maxresdefault.jpg)](https://youtu.be/oGPxKFNPtvg)
+[![prewiev](https://raw.githubusercontent.com/Zer0AlmostNull/clothSimulation/main/example.gif)](https://youtu.be/oGPxKFNPtvg)
